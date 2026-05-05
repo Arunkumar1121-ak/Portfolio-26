@@ -17,7 +17,7 @@ export const PERSONAL = {
     "I'm a passionate MERN Full Stack Developer from India with a deep interest in building performant, accessible, and beautiful web applications. I specialize in creating end-to-end solutions — from designing intuitive user interfaces to architecting scalable backend systems.",
   bio2:
     'My journey started with curiosity for how things work on the web. Today, I work with modern stacks like React, Node.js, MongoDB, and Firebase to deliver production-grade applications. I care deeply about code quality, performance, and user experience.',
-  cvLink: '/public/resume.pdf', // Replace with your CV/resume link
+  cvLink: '/resume.pdf', // Replace with your CV/resume link
   available: true,
 }
 
