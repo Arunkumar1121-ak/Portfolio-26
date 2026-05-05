@@ -5,7 +5,7 @@
 
 export const PERSONAL = {
   name: 'Arunkumar',
-  initials: 'YN',
+  initials: 'Ak',
   role: 'MERN Full Stack Developer',
   tagline: 'MERN Full Stack Developer · UI/UX Enthusiast',
   location: 'India',
@@ -62,29 +62,29 @@ export const PROJECTS = [
     description:
       'A real-time tournament bracket management platform with live score updates, team registration, and admin dashboard.',
     stack: ['React', 'Node.js', 'MongoDB', 'Socket.io'],
-    liveUrl: '#',
+    liveUrl: 'https://tournament-app-six-zeta.vercel.app/',
     githubUrl: '#',
     gradient: 'linear-gradient(135deg, #3b6ff5, #7c55f0)',
   },
   {
     id: 2,
-    title: 'Student Report Management',
-    abbr: 'SR',
+    title: 'Movie App ',
+    abbr: 'MA',
     description:
-      'A comprehensive school management system for generating, managing, and distributing student academic reports with analytics.',
-    stack: ['React', 'Express', 'MongoDB', 'Firebase'],
-    liveUrl: '#',
-    githubUrl: '#',
+      'A responsive movie discovery web app with search, trending movies, detailed movie pages, ratings, and a clean user-friendly interface.',
+    stack: ['React', 'TMDB API', 'Tailwind CSS', 'JavaScript'],
+    liveUrl: 'https://movie-app-taupe-zeta.vercel.app/',
+    githubUrl: 'https://github.com/Arunkumar1121-ak/movie-app',
     gradient: 'linear-gradient(135deg, #00b8d4, #10c484)',
   },
   {
     id: 3,
-    title: 'E-Commerce Web Application',
-    abbr: 'EC',
+    title: 'Eleven21 E-Commerce Web Application',
+    abbr: 'E21',
     description:
       'Full-featured e-commerce platform with cart management, payment integration, inventory tracking, and seller dashboard.',
     stack: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-    liveUrl: '#',
+    liveUrl: 'https://eleven21-rgkj.vercel.app/',
     githubUrl: '#',
     gradient: 'linear-gradient(135deg, #f0558e, #f09055)',
   },
